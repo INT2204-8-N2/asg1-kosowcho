@@ -12,5 +12,5 @@ sẽ thấy dòng lệnh:
 tesseract_install_path bạn thay vào bằng đường dẫn mà bạn lưu vào trong máy ví dụ như ở trên là tesseract-ocr được lưu ở "D:\\Tesseract-OCR\\tesseract"
 
 còn output_file là file txt mà bạn muốn ghi đoạn text ở trên ảnh ra file.txt  ( file.txt này tùy ở để ở đâu cũng được r lấy đường link đó paste vào output_file 
-Vậy là OK !!!! GoodLuck!!
+Vậy là OK !!!! GoodLuck!!!
       
