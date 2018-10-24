@@ -5,6 +5,7 @@
 
 *Để dùng thêm tính năng đọc chuỗi từ ảnh ra text và dùng api để dịch sang tiếng việt .
 * đầu tiên hãy cài phần mềm "tesseract-ocr" (https://github.com/tesseract-ocr/tesseract/wiki/Downloads)
+* sau khi cài đặt xong thì chạy tesseract.exe 
 
 sau khi cài đặt phần mềm thì tiếp theo vào mục TextOnImage chọn class my_main() 
 sẽ thấy dòng lệnh:
