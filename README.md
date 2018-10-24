@@ -1,5 +1,4 @@
-# asg1-kosowcho
-asg1-kosowcho created by GitHub Classroom
+
 *Để chạy được project đầu tiên add all file ".jar"(có vẵn ở github https://github.com/INT2204-8-N2/asg1-kosowcho) vào trong lib của project 
 
 
